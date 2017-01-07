@@ -32,6 +32,7 @@ sys.setdefaultencoding('ascii')
 #r.close()
 #t.close()
 #reference from stack overflow : http://stackoverflow.com/questions/16139306/determine-season-given-timestamp-in-python-using-datetime/24582617#24582617
+
 Y = 2000 # dummy leap year to allow input X-02-29 (leap day)
 seasons = [('winter', (date(Y,  1,  1),  date(Y,  3, 20))),
            ('spring', (date(Y,  3, 21),  date(Y,  6, 20))),
