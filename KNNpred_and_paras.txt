@@ -1,0 +1,2 @@
+learner: KNN accuracy is 0.256591446952
+The paras are {'n_neighbors': 13, 'weights': 'distance'}
